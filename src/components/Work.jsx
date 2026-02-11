@@ -98,7 +98,7 @@ function Work() {
           icon={<MoveRight />}
         />
       </div>
-      <div className="">
+      <div className="relative">
         <Stats />
       </div>
     </div>
